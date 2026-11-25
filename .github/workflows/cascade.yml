@@ -1,0 +1,31 @@
+name: cascade-enhance
+on:
+  schedule:
+    - cron: '53 * * * *'
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  lint-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: require README
+        run: test -f README.md && test -s README.md
+      - name: require SECURITY
+        run: test -f SECURITY.md && test -s SECURITY.md
+      - name: no point-zero null
+        run: |
+          test -n "${GITHUB_SHA}"
+          grep -q "137451921129154222" README.md
+      - name: no secret filenames
+        run: |
+          test ! -f .env
+          test ! -f secrets.yml
+          test ! -f id_rsa
+      - name: cascade file self-check
+        run: test -f .github/workflows/cascade.yml

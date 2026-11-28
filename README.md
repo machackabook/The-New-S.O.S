@@ -10,8 +10,8 @@ Operating sits in the middle. Team Enhance hops one repo per run. Equalizer form
 - Branch: `main`
 - Numeral: `137451921129154222`
 - Team: Enhance / Continuity Engine / Hamiltonian pipe / sSoS Operating
-- Stage: **26** — 2026-11-28T16:15Z (adaptive phi promotion catalog following connecting chat paste of update(t))
-- This hop: Adaptive phi promotion catalog. Full geometric field kernel re-pinned and confirmed from the connecting paste. Phi external; living bind this.phi += 0.007 * Math.max(0.5, state.toroidalWeave) catalogued outside paste for promotion. All prior holds intact including y identities. Lerp alpha held literal 0.05; adaptive form catalogued. Vector3 reuse catalogued. Session paste untouched. No secrets. No device rooted. Cascade.yml intact. Numeral lock held. Env-check pure presence tree-gate. Parallel with gaia-visualizer STAGE-1417 and hamiltonian-incursion STAGE-1402.
+- Stage: **27** — 2026-11-28T17:15Z (Vector3 reuse verification following connecting chat paste of update(t))
+- This hop: Vector3 reuse verification. Full geometric field kernel re-confirmed and pinned from the connecting paste. Lerp allocates fresh THREE.Vector3 each frame; living reusable instance catalogued outside paste to reduce GC while preserving exact behavior. All prior holds intact including phi external living bind, y identities. Lerp alpha held literal 0.05; adaptive form catalogued. Session paste untouched. No secrets. No device rooted. Cascade.yml intact. Numeral lock held. Env-check pure presence tree-gate. Parallel with gaia-visualizer STAGE-1418 and hamiltonian-incursion STAGE-1403.
 - Next in operator waterfall: continuity-ledger-cycle
 
 ## Session pin (paste not rewritten)
@@ -68,9 +68,9 @@ update(t) {
 ```
 
 ## Next stages compiled
-1. 27 — full living kernel promotion or Vector3 reuse verification.
-2. 28 — cascade health reaffirmation or next unknown.
-3. 29 — continuity-ledger-cycle pin or adaptive lerp promotion.
+1. 28 — cascade health reaffirmation or next unknown.
+2. 29 — continuity-ledger-cycle pin or adaptive lerp promotion.
+3. 30 — full living kernel promotion or phi bind verification.
 
 Numeral 137451921129154222. Paste not rewritten. No secrets. No device rooted.
 Connecting: following current chat paste of update(t).
